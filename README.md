@@ -22,4 +22,4 @@ e prendere, mediante l'utilizzo di particolari attuatori, azioni correttive se l
 * Jumpers
 
 
-*Developed by Mario Tortorici and Vincenzo Fardella*
+*Developed by **Mario Tortorici** & **Vincenzo Fardella** @ **Università degli Studi di Palermo***
