@@ -20,3 +20,6 @@ e prendere, mediante l'utilizzo di particolari attuatori, azioni correttive se l
 * Push button switch
 * 10K-ohms resistor
 * Jumpers
+
+
+*Developed by Mario Tortorici and Vincenzo Fardella*
